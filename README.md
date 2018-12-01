@@ -9,5 +9,8 @@ Project:
 		-todoList(created,due,body)
 	
 	
-Todo: присобачить vaadin, проверить работу.
+Todo: 
+    -vaadin;
+    -states;
+    -instructions for projects;
 	
