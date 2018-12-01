@@ -5,6 +5,7 @@ Project:
 	-start date
 	-deadline
 	-development plan
+		-sprint
 		-todos
 	
 	
