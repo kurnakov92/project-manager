@@ -5,7 +5,9 @@ Project:
 	-start date
 	-deadline
 	-development plan
-		-sprint
-		-todos
+		-sprintList
+		-todoList
 	
+	
+Todo: присобачить vaadin, проверить работу.
 	
